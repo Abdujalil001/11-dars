@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    color: yellow;
+}
+
+
+body{
+    background-color: rgb(2, 2, 53);
+}
+
+
+p{
+    color: white;
+    text-align: center;
+}
+
+
+span{
+    color: green;
+}
+
+
+img{
+    width: 300px;
+    border: 3px solid yellow; 
+}
+
+
+table{
+    width: 1500px;
+    color: white;
+    border-collapse
+}
